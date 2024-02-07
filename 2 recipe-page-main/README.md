@@ -19,12 +19,12 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## Live Link
-()
+(https://front-end-mentor-38af.vercel.app)
 
     Click above link to check my project.
 
 
 ## Download/Clone
-()
+(https://github.com/tayade-aniket/front-end-mentor/tree/Master/2%20recipe-page-main)
 
     Click this link to download or clone my code from my github repo.
