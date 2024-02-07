@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Recipe page
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -12,19 +12,19 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+Your challenge is to build out this recipe page and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## Live Link
-(https://front-end-mentor-omega-nine.vercel.app)
+()
 
-    Click above link to check the output. 
+    Click above link to check my project.
+
 
 ## Download/Clone
-(https://github.com/tayade-aniket/front-end-mentor/tree/Master/1%20qr-code-component-main)
+()
 
-    Click above link to Download or Clone code from my Repo.
-
+    Click this link to download or clone my code from my github repo.
